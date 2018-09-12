@@ -12,5 +12,6 @@ Datormācibas kursa elektroniskā klade
 **ls** - parāda visas mapes sistēmā  
 **ls -a** - parāda visas mapes sistēmā, arī slēptās  
 **history** - parāda komandrindas vēsturi šajā sesijā  
+**clear** - notīrīt darba virsmu
 **history >> nosaukums.txt** saglabāt komandrindas vēsturi
 
