@@ -3,7 +3,7 @@ import math as math4
 #precizitate
 h = 0.01
 
-#definejam
+#definejam (izmantoju https://en.wikipedia.org/wiki/Finite_difference)
 def f(x):
     return math4.sin(x)
 def atv(c):
